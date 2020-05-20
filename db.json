@@ -1,0 +1,60 @@
+{
+  "Persona": [
+    {
+      "rut": "14.159.357-8",
+      "nombres": "Felipe Jose",
+      "apellido Paterno": "Perez",
+      "apellido Materno": "Dias",
+      "id": 1
+    },
+    {
+      "rut": "17.100.120-k",
+      "nombres": "Jose Jose",
+      "apellido Paterno": "Mardones",
+      "apellido Materno": "Carrasco",
+      "id": 2
+    },
+    {
+      "rut": "16.411.002-4",
+      "nombres": "Pedro Iván",
+      "apellido Paterno": "Maldonado",
+      "apellido Materno": "Carrascal",
+      "id": 3
+    },
+    {
+      "rut": "13.012.956-4",
+      "nombres": "Iván Aldo",
+      "apellido Paterno": "Jara",
+      "apellido Materno": "Collins",
+      "id": 4
+    },
+    {
+      "rut": "18.3022.116-3",
+      "nombres": "Miguel Eduardo",
+      "apellido Paterno": "Jara",
+      "apellido Materno": "Jara",
+      "id": 5
+    },
+    {
+      "rut": "18.3022.116-3",
+      "nombres": "Miguel Eduardo",
+      "apellido Paterno": "Jara",
+      "apellido Materno": "Jara",
+      "id": 6
+    },
+    {
+      "rut": "18.022.056-3",
+      "nombres": "Hanz Italo",
+      "apellido Paterno": "Dias",
+      "apellido Materno": "Lopez",
+      "id": 7
+    },
+    {
+      "rut": "19.159.641-k",
+      "nombres": "Ignacio Felipe",
+      "apellido Paterno": "Muñoz",
+      "apellido Materno": "Muñoz",
+      "id": 8
+    }
+  ]
+}
